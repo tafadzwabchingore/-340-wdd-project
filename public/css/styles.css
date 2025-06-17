@@ -5,7 +5,7 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-  font-family: "Rubik", "Helvetica", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 #top-header {
@@ -20,18 +20,18 @@ ul.notice {
 }
 
 .siteName {
-  font-size: 2rem;
+  font-size: 3rem;
   text-align: left;
 }
 
 .siteName a {
   text-decoration: none;
-  color: black;
+  color: rgb(21, 61, 113);
   font-family: "Raleway", "Rock Salt", sans-serif;
 }
 
 #tools {
-  font-size: 1rem;
+  font-size: 1.6rem;
   text-align: right;
   /* padding: 0 10px; */
 }
@@ -84,7 +84,7 @@ nav ul li a {
 .car-details {
   grid-column: 1/2;
   grid-row: 1/2;
-  color: rgb(48, 129, 236);
+  color: rgb(21, 61, 113);
   background-color: rgba(255, 255, 255, 0.5);
   padding: 0 10px 0 0;
   margin: 0 30px 0 0;
